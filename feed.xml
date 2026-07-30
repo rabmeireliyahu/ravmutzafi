@@ -2,7 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>הרב בן ציון מוצפי</title>
-    <description>שיעורים הרב בן ציון מוצפי שליט"א</description>
+    <description>שיעורי הלכה, אמונה וקבלה מפי הרב בן ציון מוצפי שליט"א. מנהגי ספרד, תפילה וכוונות, סגולות ומוסר, פרשת שבוע ומועדי ישראל - אוצר התורה.</description>
+    <itunes:summary>שיעורי הלכה, אמונה וקבלה מפי הרב בן ציון מוצפי שליט"א. מנהגי ספרד, תפילה וכוונות, סגולות ומוסר, פרשת שבוע ומועדי ישראל - אוצר התורה.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/ravmutzafi</link>
     <language>he</language>
     <itunes:author>הרב בן ציון מוצפי שליט"א</itunes:author>
