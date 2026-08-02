@@ -3,7 +3,6 @@
   <channel>
     <title>הרב בן ציון מוצפי</title>
     <description>שיעורי הלכה, אמונה וקבלה מפי הרב בן ציון מוצפי שליט"א. מנהגי ספרד, תפילה וכוונות, סגולות ומוסר, פרשת שבוע ומועדי ישראל - אוצר התורה.</description>
-    <itunes:summary>שיעורי הלכה, אמונה וקבלה מפי הרב בן ציון מוצפי שליט"א. מנהגי ספרד, תפילה וכוונות, סגולות ומוסר, פרשת שבוע ומועדי ישראל - אוצר התורה.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/ravmutzafi</link>
     <language>he</language>
     <itunes:author>הרב בן ציון מוצפי שליט"א</itunes:author>
@@ -2757,6 +2756,15 @@
       <guid isPermaLink="false">הרב בן ציון מוצפי • מעלת יום ט＂ו באב • 40 יום קודם יום ראש השנה • מנחם אב תשע＂ח.mp3</guid>
       <pubDate>Tue, 28 Jul 2026 10:18:11 -0000</pubDate>
       <itunes:duration>01:20:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב בן ציון מוצפי • פרשת ראה • מנחם אב תשע＂ט</title>
+      <description>הרב בן ציון מוצפי • פרשת ראה • מנחם אב תשע＂ט</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-ben-tzion-mutzafi-shiurim/%D7%94%D7%A8%D7%91%20%D7%91%D7%9F%20%D7%A6%D7%99%D7%95%D7%9F%20%D7%9E%D7%95%D7%A6%D7%A4%D7%99%20%E2%80%A2%20%D7%A4%D7%A8%D7%A9%D7%AA%20%D7%A8%D7%90%D7%94%20%E2%80%A2%20%D7%9E%D7%A0%D7%97%D7%9D%20%D7%90%D7%91%20%D7%AA%D7%A9%D7%A2%EF%BC%82%D7%98.mp3" length="72962587" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב בן ציון מוצפי • פרשת ראה • מנחם אב תשע＂ט.mp3</guid>
+      <pubDate>Sun, 02 Aug 2026 12:28:18 -0000</pubDate>
+      <itunes:duration>01:16:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
